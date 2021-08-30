@@ -1,0 +1,7 @@
+diff --git a/intermediate-normal-merge/hello_world.py b/intermediate-normal-merge/hello_world.py
+index f1a1813..9e3c671 100644
+--- a/intermediate-normal-merge/hello_world.py
++++ b/intermediate-normal-merge/hello_world.py
+@@ -1 +1,2 @@
+ print("Hello world!")
++print("Hello once again")
